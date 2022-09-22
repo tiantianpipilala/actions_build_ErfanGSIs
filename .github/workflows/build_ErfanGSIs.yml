@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://udomain.dl.sourceforge.net/project/gsi-projects/v415-Sep/crDroid-8.9/crDroid-8.9-arm64_bvN-Unofficial.img.xz
-  ROM_NAME: crDroid
+  ROM_URL: https://nchc.dl.sourceforge.net/project/nippongsi/Generic%20-%20MotoMyUI-12.0%20-%20IXU4E2ZOVH/MotoMyUI-12.0-AB-12-20220914-NipponGSI.img.gz
+  ROM_NAME: myui
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
